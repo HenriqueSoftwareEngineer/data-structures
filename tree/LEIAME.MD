@@ -1,3 +1,16 @@
+# Estruturas de Dados em Árvore
+
+## Construção tradicional da árvore:
+### Primeira defina a classe para criar os Nós da árvore
+### Segundo defina a classe para criar a árvore binária
+### Defina os métodos dentro da classe que constrói a árvore binária
+- Um método para inserir um valor no nó da árvore
+- Outro método para criar um novo nó na árvore
+- Mais outro ainda para percorrer a árvore em ordem 
+- Outro para buscar um valor dentro da estrutura da árvore
+
+
+
 Para construir estruturas de dados de árvores binárias, você precisará de conhecimentos em várias áreas fundamentais de programação e estruturas de dados. Aqui está um guia detalhado do que aprender:
 
 ---
